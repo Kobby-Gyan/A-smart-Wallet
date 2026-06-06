@@ -1,0 +1,6 @@
+{
+  "name": "Smart Budget Wallet",
+  "description": "A secure tracker for real-time spending habits with smart budget alerts, multi-currency syncing, mock biometric authentication, audit logs, and recurring expense monitoring.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
